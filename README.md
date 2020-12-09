@@ -1,4 +1,4 @@
-# shakespeare-translator
+# Shakespeare Translator
 
 Translator App made using Vanilla JS.
 
